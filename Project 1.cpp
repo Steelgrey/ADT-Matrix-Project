@@ -1,9 +1,4 @@
-// Title: Program 1
-// Authors: Ohad S. Farkash, Matt Paccione ...
-// Created: 09-19-22
-// Class: CIS-277-001HY
-// Instructor: Professor Aljamal
-// Description: Perform operations on matrices
+
 
 #include <iostream>
 #include <iomanip>
